@@ -8,14 +8,14 @@
   "verifyEmail": false,
   "users": [
     {
-      "username": "testuser",
-      "email": "testuser@example.com",
+      "username": "test",
+      "email": "test@example.com",
       "enabled": true,
       "emailVerified": true,
       "credentials": [
         {
           "type": "password",
-          "value": "TestPass123",
+          "value": "password",
           "temporary": false
         }
       ],
